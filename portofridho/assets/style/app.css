@@ -1,0 +1,104 @@
+body {
+  background-color: #ffffff; /* Set background color to white */
+  font-family: Arial, sans-serif;
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+
+.profileImage {
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.close-margin {
+  margin-top: -10px;
+}
+
+/* Home selection */
+.home-section {
+  background-color: #273036; /* Change to white */
+  padding: 50px;
+  color: #273036; /* Update text color if necessary */
+  margin-bottom: 0%;
+}
+
+/* Garis pemisah */
+.border-right {
+  border-right: 1px solid #ddd; /* Change color to match new background */
+}
+
+.pendidikan {
+  background-color: #ffffff; /* Change to white */
+  padding: 50px;
+  color: #273036; /* Update text color */
+  width: 100%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #273036; /* Change header color if needed */
+  color: #fff; /* Ensure text is visible */
+}
+
+.aktivitas-organisasi {
+  background-color: #273036; /* Change to white */
+  padding: 50px;
+  color: #fff; /* Update text color */
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none; /* Menghapus bullet points */
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 15px; /* Memberi jarak antar item */
+}
+
+.kontak {
+  background-color: #ffffff; /* Keep contact section white */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center; /* Center icons */
+  gap: 20px; /* Spacing between icons */
+  margin-bottom: 20px;
+}
+
+.social-icons img {
+  width: 40px; /* Ukuran ikon */
+  height: 40px; /* Ukuran ikon */
+  transition: transform 0.3s; /* Animasi zoom saat hover */
+}
+
+.social-icons img:hover {
+  transform: scale(1.1); /* Efek zoom saat hover */
+}
