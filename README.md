@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Freedho
 - 👀 I’m interested in programing language html,css,c++
-- 🌱 I’m currently learning smk mhs batam
+- 🌱 I’m currently learning in smk mhs batam
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
